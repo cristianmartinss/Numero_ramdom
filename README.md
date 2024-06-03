@@ -1,4 +1,4 @@
-# A sorteador Flet app
+# Um Sorteador usando Flet.
 
 Um exemplo simples de um Flet app.
 Usei os métodos de função e as bibliotecas random e flet.
